@@ -24,16 +24,16 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 7.Cyclone ESC for motors 
 8. Flysky FS - i6S transceiver
 
-## Software Covered ;
+## Software Covered :
 ----------------------
 
-1. Matlab
+1. [Matlab](https://in.mathworks.com/products/matlab.html?requestedDomain=)
 2. [BetaFlight](https://betaflight.com/)
-3. Liftoff
-5. AdruPliot
+3. [Liftoff](https://www.liftoff-game.com/)
+5. [AdruPliot](https://ardupilot.org/)
    
 
-## Phase 1 : Aerodynamics of Drone 
+## Phase 1 : Aerodynamics of Drone :
 
 ------------
 
@@ -41,30 +41,34 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 
 
 
-## Phase 2 : Drone specifications 
+## Phase 2 : Drone specifications :
 ------------------
 
 
-## Phase 3 : Drone Assembling - Architecture - Programming 
+## Phase 3 : Drone Assembling - Architecture - Programming :
 ------------------------
 
 
-## Phase 4 : Telemetry , Simulation and flying , career prospects
+## Phase 4 : Telemetry , Simulation and flying , career prospects :
 -----------------------------
+
 
 
 ## Images Related to simulations
 -----------------------------
+* While Doing simulation in different sofwares . Add related images and Videos .
 
 
 
 ## Images Related to Drone Bulding .
 ------------------
 
+* Add your Images while bulding the drone.
+
 
 
 ## Lift -off Videos and Images .
 ----------------------
-
+* Add the Video while you Flying your Drone .
 
 
