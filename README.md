@@ -86,3 +86,16 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 * Add the Video while you Flying your Drone .
 
 
+## About Space Chase
+-----------------
+
+
+![image](https://github.com/jaswanth-coder/DroneCraft_Workshop/assets/75730218/487ebfb9-bc71-4577-84be-d8465ae33720)
+
+
+
+Space Chase, a pioneering aviation company based in India,specializing in the design, development, manufacturing, and testing of innovative products, including Military UAVs, Industrial UACs, and
+various Aerospace Technologies. Distinguished for our commitment to excellence, we extend our influence beyond product development to knowledge dissemination. Space Chase takes pride in organizing and
+conducting technical workshops across diverse engineering domains from Electronics and Computer Science to Aerospace, Electrical, Mechanical, and more. Our workshops cover an extensive array of
+topics, such as Drone Fabrication and Development, Aeromodelling, CubeSAT Development and Launch, 3D Printing, Robotics, VTOL Development, and numerous others. With an unwavering dedication to
+knowledge dissemination, Space Chase emerges as a practical choice for those seeking excellence in aerospace technology and engineering education.
