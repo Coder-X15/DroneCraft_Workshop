@@ -6,6 +6,10 @@ Give a breif description about each of this Phase when the Session are  complete
 
 Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoMoJXpww_DZjBn_wbu_Sg9zj/view?usp=sharing 
 
+
+![image](https://github.com/jaswanth-coder/DroneCraft_Workshop/assets/75730218/c80bfede-cd1d-44a9-a61c-8281b373efc0)
+
+
 ## About the Componenets Required for the Drone :
 -------------------------
 
@@ -20,6 +24,14 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 7.Cyclone ESC for motors 
 8. Flysky FS - i6S transceiver
 
+## Software Covered ;
+----------------------
+
+1. Matlab
+2. BetaFlight
+3. Liftoff
+4. AdruPliot
+   
 
 ## Phase 1 : Aerodynamics of Drone 
 
