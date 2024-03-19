@@ -28,9 +28,9 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 ----------------------
 
 1. Matlab
-2. BetaFlight
+2. [BetaFlight](https://betaflight.com/)
 3. Liftoff
-4. AdruPliot
+5. AdruPliot
    
 
 ## Phase 1 : Aerodynamics of Drone 
