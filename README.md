@@ -6,9 +6,26 @@ Give a breif description about each of this Phase when the Session are  complete
 
 Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoMoJXpww_DZjBn_wbu_Sg9zj/view?usp=sharing 
 
+## About the Componenets Required for the Drone :
+-------------------------
+
+* Small task for you search for these components in the online stores and add the link next to it to make it Look it more Super cool .! .
+  
+1. Q250 frame - chassis 
+2. PDB - XT60 (power distribution board)
+3. EMAX RS2205 
+4. Gemfan Hurrican 
+5. Aocoda-RC : F7 
+6. LiPO battery 
+7.Cyclone ESC for motors 
+8. Flysky FS - i6S transceiver
+
+
 ## Phase 1 : Aerodynamics of Drone 
 
 ------------
+
+* write the Physics part about the drone you will learn.
 
 
 
@@ -24,7 +41,7 @@ Drone Workshop Brochure Drive Link : https://drive.google.com/file/d/1xoDcGYvhoM
 -----------------------------
 
 
-## Iamges Related to simulations
+## Images Related to simulations
 -----------------------------
 
 
